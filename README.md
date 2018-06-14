@@ -4,3 +4,6 @@ Tervetuloa kokeilemaan Jupyter Notebookien käyttöä. Aloita menemällä osoitt
 
 
 Jos tekeminen loppuu, https://github.com/cms-opendata-education/cms-jupyter-materials-finnish sisältää aiemmin luotuja matskuja joita voi myös vilkaista.
+
+Päivitys. 14.6.2018
+Kansioon lisätty myös melko kattava "Ohjeita Pythonin käyttöön Jupyterilla" -tiedosto, josta pitäisi olla apua opetteluun ja erinäisiin ongelmatilanteisiin.
